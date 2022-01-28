@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecView</string>
+    <string-array name="vibor">
+        <item>Числитель</item>
+        <item>Знаменатель</item>
+    </string-array>
+</resources>
